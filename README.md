@@ -1,2 +1,3 @@
 # inicando
 Meu primeiro repositório do curso de git e github
+iniciando testes
